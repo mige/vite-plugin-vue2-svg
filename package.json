@@ -7,7 +7,7 @@
   "files": [
     "lib"
   ],
-  "repository": "https://github.com/pakholeung37/vite-plugin-vue2-svg",
+  "repository": "https://github.com/mige/vite-plugin-vue2-svg",
   "scripts": {
     "build": "tsc",
     "dev": "tsc -w",
@@ -26,11 +26,11 @@
   "dependencies": {
     "@vue/component-compiler-utils": "^3.2.0",
     "svgo": "^2.8.0",
-    "vue-template-compiler": "^2.6.0"
+    "vue-template-compiler": "^2.7.0"
   },
   "peerDependencies": {
-    "vite": "^2.0.4",
-    "vue": "^2.6.12"
+    "vite": "^3.0.0",
+    "vue": "^2.7.0"
   },
   "devDependencies": {
     "@types/jest": "^24.0.19",
